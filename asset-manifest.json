@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kaletejas2777/ToDo-application.git/static/css/main.33b50de0.css",
+    "main.js": "/kaletejas2777/ToDo-application.git/static/js/main.fe23fc1e.js",
+    "static/js/787.5e141d9e.chunk.js": "/kaletejas2777/ToDo-application.git/static/js/787.5e141d9e.chunk.js",
+    "index.html": "/kaletejas2777/ToDo-application.git/index.html",
+    "main.33b50de0.css.map": "/kaletejas2777/ToDo-application.git/static/css/main.33b50de0.css.map",
+    "main.fe23fc1e.js.map": "/kaletejas2777/ToDo-application.git/static/js/main.fe23fc1e.js.map",
+    "787.5e141d9e.chunk.js.map": "/kaletejas2777/ToDo-application.git/static/js/787.5e141d9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b50de0.css",
+    "static/js/main.fe23fc1e.js"
+  ]
+}
